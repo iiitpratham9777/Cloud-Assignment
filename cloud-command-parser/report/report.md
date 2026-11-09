@@ -3,7 +3,7 @@ title: "Knowledge Distillation and Deployment of a Command-Parsing Model on a Lo
 author: "Pratham Gupta (Roll no. 230103034)"
 ---
 
-**Original project by Vivek Sagarwal; student working copy by Pratham Gupta (Roll no. 230103034).**
+ 
 
 # 1. Introduction and architecture
 
