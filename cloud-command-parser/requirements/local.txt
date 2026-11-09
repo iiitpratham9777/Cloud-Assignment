@@ -1,0 +1,5 @@
+# Everything for local development on a laptop: API + model stack + tests + linting.
+# Installed by `python scripts/dev.py setup`.
+-r api.txt
+-r ml.txt
+-r ../requirements-dev.txt

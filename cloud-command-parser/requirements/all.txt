@@ -1,0 +1,3 @@
+# Local development plus the optional object-storage (S3) dependency.
+-r local.txt
+-r s3.txt

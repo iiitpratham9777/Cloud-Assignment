@@ -1,0 +1,42 @@
+# secrets / credentials (never commit these)
+.secrets/
+.env
+.env.*
+!.env.example
+*.env
+secrets.yaml
+!k8s/secrets.example.yaml
+*.pem
+*.key
+*.p12
+credentials.json
+# model weights & archives (published as GitHub Release assets only)
+model_out/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+*.tar.gz
+# generated data (synthetic smoke dataset, raw teacher shards)
+data/smoke_train.jsonl
+results/teacher/
+# python / tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+# Only needed for the optional Kubernetes / object-storage workflow (scripts/storage.py,
+# worker/, MODEL_URI=s3://...). Not needed for local use.
+boto3==1.35.20

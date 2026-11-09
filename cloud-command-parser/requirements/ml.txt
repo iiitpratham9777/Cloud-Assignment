@@ -1,0 +1,12 @@
+# Model stack: inference (service/model_loader.py) AND training (training/train.py).
+# CPU-only PyTorch. On Linux/Windows the "+cpu" build comes from the PyTorch CPU index below
+# (smaller download, no CUDA). macOS has no "+cpu" wheels: the plain PyPI wheel is used there.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu ; sys_platform != "darwin"
+torch==2.4.1 ; sys_platform == "darwin"
+transformers==4.44.2
+tokenizers==0.19.1
+huggingface-hub==0.24.7
+safetensors==0.4.5
+numpy==1.26.4
+pyyaml==6.0.2
