@@ -1,9 +1,6 @@
 # Cloud Command Parser: knowledge distillation and deployment on a local Kubernetes cloud
 
-Student working copy: **Pratham Gupta** · Roll number: **230103034**
-
-Original project author: **Vivek Sagarwal**. This is a locally customized study copy; retain this attribution when reusing or submitting project material. Add your own repository and release URLs only after creating and verifying them.
-
+Student : **Pratham Gupta** · Roll number: **230103034**
 > **Status:** see `STATUS.md` for what is implemented, what was executed and what is still pending.
 > Anything marked *PENDING* has not been run yet; no result in this repository is invented.
 
