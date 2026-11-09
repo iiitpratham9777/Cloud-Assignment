@@ -1,7 +1,9 @@
 ---
 title: "Knowledge Distillation and Deployment of a Command-Parsing Model on a Local Cloud"
-author:  Pratham Gupta (Roll no. 230103034)"
+author: "Pratham Gupta (Roll no. 230103034)"
 ---
+
+**Original project by Vivek Sagarwal; student working copy by Pratham Gupta (Roll no. 230103034).**
 
 **DRAFT. Items marked PENDING have not been executed yet. Nothing in this report is an invented measurement.**
 Rebuild with `make report` after replacing every PENDING with a value from `results/`.
