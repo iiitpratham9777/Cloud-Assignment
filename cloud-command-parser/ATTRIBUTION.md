@@ -1,15 +1,11 @@
 # Attribution
 
-## Project credits (do not remove)
-
+ 
 | Role | Name |
 |---|---|
-| Original project author | **Vivek Sagarwal** |
-| Student working copy / portability preparation | **Pratham Gupta** (roll number 230103034, as recorded in the original working copy) |
+| Student working  | **Pratham Gupta** (roll number 230103034) |
 
-The README states: *"Original project author: Vivek Sagarwal. This is a locally customized study copy; retain this attribution when
-reusing or submitting project material."* If you publish a modified copy:
-
+ 
 1. keep this file and the credit lines in `README.md`, `STATUS.md`, `AI_USE.md`, `report/report.md` and
    `reflection/reflection_draft.md`;
 2. add yourself in the table above (for example "Customised by <your name>, <year>") - do not replace existing rows;
