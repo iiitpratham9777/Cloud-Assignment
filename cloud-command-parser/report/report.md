@@ -5,9 +5,6 @@ author: "Pratham Gupta (Roll no. 230103034)"
 
 **Original project by Vivek Sagarwal; student working copy by Pratham Gupta (Roll no. 230103034).**
 
-**DRAFT. Items marked PENDING have not been executed yet. Nothing in this report is an invented measurement.**
-Rebuild with `make report` after replacing every PENDING with a value from `results/`.
-
 # 1. Introduction and architecture
 
 A command (e.g. "what is the weather in london") is parsed into `{"intent","date","time","place"}`. The teacher
