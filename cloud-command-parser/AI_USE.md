@@ -1,7 +1,3 @@
-# AI use declaration
-
-> Working-copy template for Pratham Gupta (Roll no. 230103034). Edit this declaration to describe only the tools you actually used and the checks you personally performed. The original project author is Vivek Sagarwal.
-
 ## Tools
 - **Claude (Anthropic)**, chat interface: used to read the assignment, scaffold the repository (service, worker,
   cleaning, training script, Kubernetes manifests, scripts, CI workflow, tests), compute the Task 5 subnet table and
